@@ -1,11 +1,9 @@
 # kodluyoruzilkrepo
-# /web Kodluyoruz İlk Repo
+# Kodluyoruz İlk Repo
 
 Merhaba, bu repom Kodluyoruz İlk Repo örneğidir. Bu repoda bir HTML sayfası bulacaksınız. 
 
 Proje bilgilerini öğrenmek için aşağıdaki bağlantıyı ziyaret edin: [Kodluyoruz Proje Sayfası](https://www.kodluyoruz.org/projects/ilk-repomuz/)
-
-/web yolunda, bir adet index.html dosyası bulacaksınız. 
 
 ## İndirme ve Kurulum
 
